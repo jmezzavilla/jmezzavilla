@@ -10,9 +10,9 @@
 
 
 <div align="left">
-  <img height="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=algolia" alt="jmezzavilla" />
+  <img height="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=github" alt="jmezzavilla" />
   <a href="https://github.com/jmezzavilla/ft_printf">
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=algolia" alt="jmezzavilla" />
+    <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=github" alt="jmezzavilla" />
   </a>
 </div>
 
@@ -35,21 +35,17 @@
 <div>
 <p align="left">
     	<a href="https://github.com/jmezzavilla">
-	    <img align="left" height="50%" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=algolia" alt="jmezzavilla" />
+	    <img align="left" height="50%" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=github" alt="jmezzavilla" />
 	</a>
-	<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=algolia&layout=compact"/>
+	<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=github&layout=compact"/>
 </p>
 
-<br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmezzavilla&custom_title=Jéssica%20Mezzavilla's%20Contribution%20Graph&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-	
-<br/>
-	<p>
-		<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-	</p>
 </div>
 
 <br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmezzavilla&custom_title=Jéssica%20Mezzavilla's%20Contribution%20Graph&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
 
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
