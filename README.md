@@ -17,8 +17,9 @@
 </div>
 
 <br/>
-<br/>
-### 🛠 &nbsp;Tech Stack
+<hr/>
+
+### 🛠 Tech Stack
 - 🌐 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![C](https://img.shields.io/badge/-shell-333333?style=flat&logo=shell)
@@ -29,6 +30,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
+<hr/>
 
 ## 📊 Github Stats
 
@@ -43,15 +45,15 @@
 </div>
 
 <br/>
-<br/>
+<hr/>
 
-<!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=jmezzavilla&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
 <br/>
+<hr/>
 
 ## 🙋‍♀️ Let's Connect
 
@@ -64,6 +66,7 @@
 </p>
   
 <br/>
+<hr/>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
