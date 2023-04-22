@@ -20,12 +20,10 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+<br/>
 
-## 📊 Github Stats (Expand to View)
+## 📊 Github Stats
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
   <p align="center">
     <a href="https://github.com/jmezzavilla"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=algolia" alt="jmezzavilla" height="192px"/></a>
 	</p>
@@ -35,7 +33,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
 <br/>
 
