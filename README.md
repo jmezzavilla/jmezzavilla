@@ -12,7 +12,7 @@
 <div align="left">
   <img height="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=github" alt="jmezzavilla" />
   <a href="https://github.com/jmezzavilla/ft_printf">
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=github" alt="jmezzavilla" />
+    <img height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=github" alt="jmezzavilla" />
   </a>
 </div>
 
@@ -30,7 +30,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-<hr/>
 
 ## 📊 Github Stats
 
@@ -38,14 +37,13 @@
 <p align="left">
     	<a href="https://github.com/jmezzavilla">
 	    <img align="left" height="50%" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=github" alt="jmezzavilla" />
-	</a>
-	<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=github&layout=compact"/>
+	   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=github&layout=compact"/>
+	</a>	
 </p>
 
 </div>
 
 <br/>
-<hr/>
 
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -53,7 +51,6 @@
 </a>
 
 <br/>
-<hr/>
 
 ## 🙋‍♀️ Let's Connect
 
