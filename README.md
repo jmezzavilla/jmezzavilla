@@ -11,6 +11,14 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+## My Stats
+<p>
+<a href="https://github.com/jmezzavilla">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla1&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jmezzavilla&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
 <div> 
   <a href="https://instagram.com/jmezzavilla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jéssica-mezzavilla-1865a741/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
@@ -26,10 +34,6 @@
 </p>
   
 ---
-
-<a href="https://github.com/jmezzavilla">
-  <img align="center" src="https://letstrys-jmezzavilla.vercel.app/api/?username=jmezzavilla&show_icons=true&theme=radical" height="200"/>  
-</a>
   
   
 </div>
