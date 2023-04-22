@@ -42,11 +42,8 @@
 
 </div>
 
+
 <br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmezzavilla&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<br>
 
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
@@ -76,6 +73,9 @@
 </p>
   
  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmezzavilla&custom_title=Jéssica%20Mezzavilla's%20Contribution%20Graph&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 📍 Profile Visitor Count
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/jmezzavilla/count.svg" />  
