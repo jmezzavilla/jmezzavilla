@@ -8,7 +8,14 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=algolia" alt="jmezzavilla" /></p>
+
+<div align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=algolia" alt="jmezzavilla" />
+  <a href="https://github.com/gabriel-arrvda/biblioteca-tcc">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=algolia" alt="jmezzavilla" />
+  </a>
+</div>
+
 
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
@@ -29,8 +36,9 @@
     	<a href="https://github.com/jmezzavilla">
 	    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=algolia" alt="jmezzavilla" height="50%"/>
 	</a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jmezzavilla" height="50%"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=algolia&layout=compact"/>
 </p>
+	
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
