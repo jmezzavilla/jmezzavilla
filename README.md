@@ -81,4 +81,6 @@
   <img src="https://profile-counter.glitch.me/jmezzavilla/count.svg" />  
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmezzavilla&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
