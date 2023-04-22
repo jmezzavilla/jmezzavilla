@@ -7,8 +7,6 @@
 <br/>
 
 ## 🔥 Streak Stats
-
-
 <div align="left">
   <img height="130em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=dark" alt="jmezzavilla" />
   <a href="https://github.com/jmezzavilla/ft_printf">
@@ -19,7 +17,6 @@
 <br/>
 
 ### 🛠 Tech Stack
-
 <div align="center">
 	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
 	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
@@ -27,12 +24,14 @@
   	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="40" width="52" alt="tortoisegit logo"  />
 	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
 	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+</div>
+
 <br/>
 
 ## 📊 Github Stats
 
 <div>
-<p align="left">
+<p align="center">
     	<a href="https://github.com/jmezzavilla">
 	    <img align="left" height="130em" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=dark" alt="jmezzavilla" />
 	   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=dark&layout=compact"/>
@@ -62,11 +61,8 @@
   
 <br/>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
 ## 🎧 Spotify Playing 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/_jessreis">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true&user=_jessreis" alt="Spotify recently played"  />
   </a>
@@ -80,6 +76,5 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/jmezzavilla/count.svg" />  
 </p>
-
 
 </div>
