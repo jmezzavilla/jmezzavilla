@@ -26,10 +26,10 @@
 
 <div>
 <p align="left">
-    <a href="https://github.com/jmezzavilla"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=algolia" alt="jmezzavilla" height="192px"/></a>
+    <a href="https://github.com/jmezzavilla"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=algolia" alt="jmezzavilla" height="50%"/></a>
 </p>
 <p  align="right">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jmezzavilla" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jmezzavilla" height="50%"/>
 </p>
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
