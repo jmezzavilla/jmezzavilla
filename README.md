@@ -2,7 +2,14 @@
 ## I'm Jessica.
 
 ### 🛠 &nbsp;Tech Stack
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+- 🌐 &nbsp;
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![C](https://img.shields.io/badge/-shell-333333?style=flat&logo=shell)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <div> 
   <a href="https://instagram.com/jmezzavilla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
