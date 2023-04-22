@@ -69,7 +69,7 @@
 <p float="left" >
   <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px" src="https://open.spotify.com/user/_jessreis" />
 </p>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=_jessreis)
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=_jessreis)](https://spotify-recently-played-readme.vercel.app/api?user=_jessreis&count={10})
   
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmezzavilla&custom_title=Jéssica%20Mezzavilla's%20Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
