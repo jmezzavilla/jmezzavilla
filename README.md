@@ -67,9 +67,9 @@
 
 
 ## 🎧 Spotify Playing 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/_jessreis">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true&user=_jessreis" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true&user=_jessreis" alt="Spotify recently played"  />
   </a>
 </div>
   
