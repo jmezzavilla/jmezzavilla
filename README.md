@@ -10,14 +10,13 @@
 
 
 <div align="left">
-  <img height="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=github" alt="jmezzavilla" />
+  <img height="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=github" alt="jmezzavilla" />
   <a href="https://github.com/jmezzavilla/ft_printf">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=github" alt="jmezzavilla" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=github" alt="jmezzavilla" />
   </a>
 </div>
 
 <br/>
-<hr/>
 
 ### 🛠 Tech Stack
 - 🌐 &nbsp;
@@ -36,8 +35,8 @@
 <div>
 <p align="left">
     	<a href="https://github.com/jmezzavilla">
-	    <img align="left" height="50%" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=github" alt="jmezzavilla" />
-	   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=github&layout=compact"/>
+	    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=github" alt="jmezzavilla" />
+	   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=github&layout=compact"/>
 	</a>	
 </p>
 
