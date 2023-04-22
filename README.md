@@ -17,7 +17,7 @@
 </div>
 
 <br/>
-
+<br/>
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
@@ -42,7 +42,7 @@
 
 </div>
 
-
+<br/>
 <br/>
 
 <!-- Profile Trophy -->
