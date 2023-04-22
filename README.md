@@ -13,7 +13,7 @@
 
 ## My Stats
 <p>
-<a href="https://github.com/jmezzavilla">
+<a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla1&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jmezzavilla&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
