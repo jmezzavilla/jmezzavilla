@@ -7,10 +7,10 @@
 <br/>
 
 ## 🔥 Streak Stats
-<div align="left">
-  <img height="130em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=dark" alt="jmezzavilla" />
+<div align="center">
+  <img height="140em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=dark" alt="jmezzavilla" />
   <a href="https://github.com/jmezzavilla/ft_printf">
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=dark" alt="jmezzavilla" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=dark" alt="jmezzavilla" />
   </a>
 </div>
 
@@ -33,8 +33,8 @@
 <div>
 <p align="center">
     	<a href="https://github.com/jmezzavilla">
-	    <img align="left" height="130em" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=dark" alt="jmezzavilla" />
-	   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=dark&layout=compact"/>
+	    <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=dark" alt="jmezzavilla" />
+	   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=dark&layout=compact"/>
 	</a>	
 </p>
 
