@@ -5,7 +5,6 @@
   I am a studant at 42 Lisboa
 </h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jmezzavilla&label=Jéssica's%20Profile%20Views%20&color=dc143c&style=plastic" alt="jmezzavilla" /> </p>
 
 ## 🔥 Streak Stats
 
@@ -67,5 +66,10 @@
   <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px" src="https://open.spotify.com/user/_jessreis" />
 </p>
   
-  
+ 
+## 📍 Profile Visitor Count
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/jmezzavilla/count.svg" />  
+</p>
+
 </div>
