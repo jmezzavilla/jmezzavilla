@@ -65,13 +65,11 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+
 ## 🎧 Spotify Playing 
-<p float="left" >
-  <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px" src="https://open.spotify.com/user/_jessreis" />
-</p>
 <div align="center">
   <a href="https://open.spotify.com/user/_jessreis">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true&user=_jessreis" alt="Spotify recently played"  />
   </a>
 </div>
   
