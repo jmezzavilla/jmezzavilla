@@ -12,7 +12,7 @@
 <div align="left">
   <img height="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=github" alt="jmezzavilla" />
   <a href="https://github.com/jmezzavilla/ft_printf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=github" alt="jmezzavilla" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=github" alt="jmezzavilla" />
   </a>
 </div>
 
