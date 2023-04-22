@@ -39,6 +39,9 @@
 	</a>
 	<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=algolia&layout=compact"/>
 </p>
+
+<br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmezzavilla&custom_title=Jéssica%20Mezzavilla's%20Contribution%20Graph&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 	
 <br/>
 	<p>
@@ -81,6 +84,5 @@
   <img src="https://profile-counter.glitch.me/jmezzavilla/count.svg" />  
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmezzavilla&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
