@@ -1,4 +1,8 @@
 ### Hi there 👋
+## I'm Jessica.
+
+### 🛠 &nbsp;Tech Stack
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 
 <div> 
   <a href="https://instagram.com/jmezzavilla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
