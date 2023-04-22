@@ -40,21 +40,25 @@
 
 <br/>
 
-<div> 
-  <a href="https://instagram.com/jmezzavilla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jéssica-mezzavilla-1865a741/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
-   <a href = "mailto:jessicamezzavilla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+  	<a href="https://jmezzavilla.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:jessicamezzavilla@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/jmezzavilla"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/jéssica-mezzavilla-1865a741"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/jessreis22"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/jmezzavilla"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
   
----
+<br/>
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+## 🎧 Spotify Playing 
 <p float="left" >
   <img src="https://novatorem-amber-nine.vercel.app/api/spotify" height="150px" src="https://open.spotify.com/user/_jessreis" />
 </p>
-  
----
   
   
 </div>
