@@ -24,15 +24,17 @@
 
 ## 📊 Github Stats
 
-  <p align="center">
+<div>
+<p align="left">
     <a href="https://github.com/jmezzavilla"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=algolia" alt="jmezzavilla" height="192px"/></a>
-	</p>
-	<p  align="center">
+</p>
+<p  align="right">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jmezzavilla" height="192px"/>
-	</p>
-  <br/>
+</p>
+<br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+</p>
+ </div>
 
 <br/>
 
