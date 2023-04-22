@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jmezzavilla/jmezzavilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align="center">
   <a href="https://github.com/irmaodojorel42">
