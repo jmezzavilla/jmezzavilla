@@ -12,7 +12,7 @@
 <div align="left">
   <img height="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=algolia" alt="jmezzavilla" />
   <a href="https://github.com/jmezzavilla/ft_printf">
-    <img height="50%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=algolia" alt="jmezzavilla" />
+    <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=ft_printf&show_icons=true&theme=algolia" alt="jmezzavilla" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@
     	<a href="https://github.com/jmezzavilla">
 	    <img align="left" height="50%" src="https://github-readme-stats.vercel.app/api?username=jmezzavilla&show_icons=true&locale=en&theme=algolia" alt="jmezzavilla" />
 	</a>
-	<img align="right" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=algolia&layout=compact"/>
+	<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmezzavilla&show_icons=true&theme=algolia&layout=compact"/>
 </p>
 	
 <br/>
