@@ -1,5 +1,12 @@
-### Hi there 👋
-## I'm Jessica.
+<h1 align="center">Hi , I'm Jessica Mezzavilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<hr/>
+<h4 align="center">
+  I am a studant at 42 Lisboa
+</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jmezzavilla&label=Jessica's%20Profile%20Views%20&color=dc143c&style=plastic" alt="jmezzavilla" /> </p>
+
 
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
