@@ -40,10 +40,17 @@
 
 <br/>
 
+<!-- Profile Trophy -->
+### 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=jmezzavilla&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
+
+<br/>
+
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-  	<a href="https://jmezzavilla.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:jessicamezzavilla@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/jmezzavilla"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/jéssica-mezzavilla-1865a741"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
