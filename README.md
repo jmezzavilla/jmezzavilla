@@ -4,7 +4,7 @@
 <h4 align="center">
   I am a studant at 42 Lisboa
 </h4>
-<br>
+<br/>
 
 ## 🔥 Streak Stats
 
@@ -16,6 +16,7 @@
   </a>
 </div>
 
+<br/>
 
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
@@ -40,9 +41,10 @@
 </p>
 	
 <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
- </div>
+	<p>
+		<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+	</p>
+</div>
 
 <br/>
 
