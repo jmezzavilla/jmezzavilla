@@ -60,14 +60,7 @@
 </p>
   
 <br/>
-
-## 🎧 Spotify Playing 
-<div align="center">
-  <a href="https://open.spotify.com/user/_jessreis">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true&user=_jessreis" alt="Spotify recently played"  />
-  </a>
-</div>
-  
+ 
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmezzavilla&custom_title=Jéssica%20Mezzavilla's%20Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
