@@ -9,7 +9,7 @@
 ## 🔥 Streak Stats
 <div align="center">
   <img height="150em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=dark" alt="jmezzavilla" />
-  <a href="https://github.com/jmezzavilla/pipex">
+  <a href="https://github.com/jmezzavilla/so_long">
     <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=so_long&show_icons=true&theme=dark" alt="jmezzavilla" />
   </a>
 </div>
