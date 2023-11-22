@@ -2,7 +2,7 @@
 
 <hr/>
 <h4 align="center">
-  I am a studant at 42 Lisboa
+  I am a student at 42 Lisboa
 </h4>
 <br/>
 
