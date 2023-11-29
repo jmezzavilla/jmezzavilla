@@ -10,8 +10,7 @@
 <div align="center">
   <img height="150em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=dark" alt="jmezzavilla" />
   <a href="https://github.com/jmezzavilla/philosophers">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=philosophers&show_icons=true&theme=dark" alt="jmezzavilla/philosophers - Estatísticas do GitHub do repositório Philosophers: implementação de soluções para o problema dos filósofos."/>
-	  
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=philosophers&show_icons=true&theme=dark" alt="jmezzavilla"/>	  
   </a>
 </div>
 
