@@ -6,6 +6,17 @@
 </h4>
 <br/>
 
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+	<a href="mailto:jessicamezzavilla@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/jmezzavilla"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/jéssica-mezzavilla-1865a741"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/jessreis22"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/jmezzavilla"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+<br/>
+
 ## 🔥 Streak Stats
 <div align="center">
   <img height="150em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=dark" alt="jmezzavilla" />
@@ -47,18 +58,6 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=jmezzavilla&column=8&theme=dark&no-frame=true&no-bg=true"/>
 </a>
 
-<br/>
-
-## 🙋‍♀️ Let's Connect
-
-<p align="center">
-	<a href="mailto:jessicamezzavilla@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/jmezzavilla"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/jéssica-mezzavilla-1865a741"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/jessreis22"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/jmezzavilla"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-  
 <br/>
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jmezzavilla&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
