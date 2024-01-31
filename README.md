@@ -17,7 +17,7 @@
 </p>
 <br/>
 <div align="center">
-	[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/jealves-)](https://github.com/oakoudad/badge42)
+	https://badge.mediaplus.ma/darkblue/jealves-
 	[![jealves-'s 42 stats](https://badge.mediaplus.ma/starryblue/jealves-)](https://github.com/oakoudad/badge42)
 </div>
 <br/>
