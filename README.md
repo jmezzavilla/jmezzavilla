@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Jéssica Mezzavilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr/>
-<h4 align="center">
-  I am a student at 42 Lisboa
-</h4>
+<div align="center">
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/jealves-?1337Badge=off" alt="jealves-'s 42 stats" /></a>
+</div>
 <br/>
 
 ## 🙋‍♀️ Let's Connect
@@ -16,16 +16,12 @@
 	<a href="https://instagram.com/jmezzavilla"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 <br/>
-<div align="center">
-	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/jealves-?1337Badge=off" alt="jealves-'s 42 stats" /></a>
-</div>
-<br/>
 
 ## 🔥 Streak Stats
 <div align="center">
   <img height="150em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jmezzavilla&theme=dark" alt="jmezzavilla" />
-  <a href="https://github.com/jmezzavilla/philosophers">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=philosophers&show_icons=true&theme=dark" alt="jmezzavilla"/>	  
+  <a href="https://github.com/jmezzavilla/so_long">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=jmezzavilla&repo=so_long&show_icons=true&theme=dark" alt="jmezzavilla"/>	  
   </a>
 </div>
 
