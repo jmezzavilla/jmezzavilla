@@ -16,7 +16,9 @@
 	<a href="https://instagram.com/jmezzavilla"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 <br/>
-[![jealves-'s 42 stats](https://badge.mediaplus.ma/starryblue/jealves-?1337Badge=off)](https://github.com/oakoudad/badge42)
+<div align="center">
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/jealves-?1337Badge=off" alt="jealves-'s 42 stats" /></a>
+</div>
 <br/>
 
 ## 🔥 Streak Stats
