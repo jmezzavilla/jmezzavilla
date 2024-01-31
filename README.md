@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Jéssica Mezzavilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<hr/>
 <div align="center">
 	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/jealves-?1337Badge=off" alt="jealves-'s 42 stats" /></a>
 </div>
